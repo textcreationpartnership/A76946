@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the election of grace. Or Of Gods will towards man. Commonly called predestination. That is, how the texts of Scripture are to be understood which treat of fallen lost Adam, and of the new birth from Christ. Being a short declaration and introduction concerning the highest ground, shewing how man may attain divine skill and knowledge. Written in the German tongue, anno 1623. / By Jacob Behme. Teutonicus philosophus.</title>
+            <title>Von der Gnadenwahl. English</title>
+            <author>Böhme, Jakob, 1575-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76946</idno>
+            <idno type="STC">Wing B3398</idno>
+            <idno type="STC">Thomason E859_5</idno>
+            <idno type="STC">Thomason E859_6</idno>
+            <idno type="STC">ESTC R4192</idno>
+            <idno type="EEBO-CITATION">99872620</idno>
+            <idno type="PROQUEST">99872620</idno>
+            <idno type="VID">168348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E859[5] or 130:E859[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the election of grace. Or Of Gods will towards man. Commonly called predestination. That is, how the texts of Scripture are to be understood which treat of fallen lost Adam, and of the new birth from Christ. Being a short declaration and introduction concerning the highest ground, shewing how man may attain divine skill and knowledge. Written in the German tongue, anno 1623. / By Jacob Behme. Teutonicus philosophus.</title>
+                  <title>Von der Gnadenwahl. English</title>
+                  <author>Böhme, Jakob, 1575-1624.</author>
+                  <author>Sparrow, John, 1615-1665?</author>
+               </titleStmt>
+               <extent>[26], 197, [2], 199-201, 102-104, [14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater, for Giles Calvert, and John Allen, and are to be sold at their shops, at the Black-spread-Eagle at the west end of Pauls; and at the Sun Rising in Paul's Church-Yard in the new buildings between the two north doores,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by John Sparrow, of: Böhme, Jakob.  Von der Gnadenwahl.</note>
+                  <note>"An appendix to the book of election or predestination." (p. 199-204), and "Jacob Behme's Table, of the divine manifestation." ([12] p. at end) each have separate dated title page; register and pagination are continuous.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Commentaries --  Early works to 1800.</term>
+               <term>Predestination --  Early works to 1800.</term>
+               <term>Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168348:1" rendition="simple:additions"/>
+            <p>JACOB BEHME'S Table, <hi>Of the Divine Manifeſtation.</hi> Or An EXPOSITION <hi>Of</hi> The Threefold World.</p>
+            <p>
+               <hi>Shewing</hi> What God is in Himſelf, without Nature and Creature: and how he is to be conſi<g ref="char:EOLhyphen"/>dered in Nature according to the Three Principles.</p>
+            <p>
+               <hi>Alſo</hi> What Heaven, Hell, the World, Time and Eternity; as alſo all Creatures both Viſible and Inviſible, are; and out of what all things are proceeded and ſprung forth.</p>
+            <p>This Table is here Expounded in brief according to the Numbers; but in the Treatiſe of Predeſtination the Mat<g ref="char:EOLhyphen"/>ters are handled more at Large, eſpecially in the firſt Five Chapters.</p>
+            <p>
+               <hi>And</hi> Is as it were the Summe of all the Authours Writings; and as an A. B. C. to Beginners.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168348:2"/>
+            <div type="tables">
+               <pb facs="tcp:168348:2"/>
+               <p>What <hi>God</hi> is, conſidered as <hi>without</hi> and beyond <hi>Nature</hi> and <hi>Creature;</hi> and what the Great Myſte<g ref="char:EOLhyphen"/>ry, <hi>Myſterium Magnum,</hi> is; ſhewing, how GOD hath, by his Breathing forth or Speaking, intro<g ref="char:EOLhyphen"/>duced himſelf into Nature and Creature.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="6">What <hi>GOD</hi> is, <hi>viz.</hi> without or beyond <hi>NATURE</hi> and <hi>CREATURE.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1</hi>
+                        </cell>
+                        <cell>Abyſſe Nothing and Allthings.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>FATHER.</hi>
+                        </cell>
+                        <cell>2</cell>
+                        <cell>Will of the Abyſſe.</cell>
+                        <cell>
+                           <hi>I. E.</hi>
+                        </cell>
+                        <cell rows="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>SONNE.</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>Longing delight, or the impreſſion of the will.</cell>
+                        <cell>
+                           <hi>H.O.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>SPIRIT.</hi>
+                        </cell>
+                        <cell>4</cell>
+                        <cell>Science, Root, or Mobility.</cell>
+                        <cell>
+                           <hi>V.A.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="3"> </cell>
+                        <cell>
+                           <hi>5</hi>
+                        </cell>
+                        <cell>
+                           <hi>GOD</hi> in Trinity.</cell>
+                        <cell> </cell>
+                        <cell rows="3">Thus is God conſide<g ref="char:EOLhyphen"/>red without Nature and Creature.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>WORD</hi> in <hi>GOD.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>7</hi>
+                        </cell>
+                        <cell>Wiſdome.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here beginneth the Great Myſtery, <hi>Myſterium Magnum;</hi> viz. the <hi>Diſtinction</hi> in the Speaking of the WORD: wherein the WORD, through the Wiſdom becometh diſtinct, alſo <hi>Natural,</hi> Sen<g ref="char:EOLhyphen"/>ſible, Perceptible, and Palpable or Inventible, whereby, the <hi>two</hi> Eternal Principles, of Gods <hi>Love</hi> and <hi>Anger,</hi> in <hi>Light</hi> and <hi>Darkneſſe,</hi> are under<g ref="char:EOLhyphen"/>ſtood.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="6">The Beginning of the <hi>Myſterium Magnum,</hi> or Eternal <hi>NATUR.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>GOD</hi>
+                        </cell>
+                        <cell>in <hi>LOVE.</hi>
+                        </cell>
+                        <cell>
+                           <hi>GOD</hi>
+                        </cell>
+                        <cell>in</cell>
+                        <cell>
+                           <hi>WRATH</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>8.</hi> The Second</cell>
+                        <cell>Principle.</cell>
+                        <cell>
+                           <hi>9.</hi> The</cell>
+                        <cell>Firſt Prin-</cell>
+                        <cell>ciple.</cell>
+                        <cell>Spiri-</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>10.</hi> Tincture; or the Trinities Speaking.</cell>
+                        <cell> </cell>
+                        <cell>Moving</cell>
+                        <cell>Senſe</cell>
+                        <cell>-tual.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Dark</cell>
+                        <cell>feeling</cell>
+                        <cell>Mind</cell>
+                        <cell>
+                           <hi>NATUR.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>V.</hi> Love fire.</cell>
+                        <cell>
+                           <hi>I.</hi> Deſire.</cell>
+                        <cell>
+                           <hi>II.</hi> Sting. Science</cell>
+                        <cell>
+                           <hi>III</hi> Anguiſh</cell>
+                        <cell>
+                           <hi>IV.</hi> Fire.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>11.</hi> Angel. Light.</cell>
+                        <cell>
+                           <hi>VI.</hi> Sound or Diſtinction.</cell>
+                        <cell>Harſh.</cell>
+                        <cell>cauſe of Enmity.</cell>
+                        <cell>fiery hot-Root</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Angelical World. Root of the <hi>4.</hi> E<g ref="char:EOLhyphen"/>lements.</cell>
+                        <cell>
+                           <hi>VII.</hi> Subſtance or the Subſtantial Wîſdom.</cell>
+                        <cell>Hard.</cell>
+                        <cell>Helliſh life.</cell>
+                        <cell>Hell</cell>
+                        <cell>Sub-</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>12.</hi> Pure Element.</cell>
+                        <cell>Sharp cold fire.</cell>
+                        <cell>Root</cell>
+                        <cell>Devill</cell>
+                        <cell>-ſtan-</cell>
+                     </row>
+                     <row>
+                        <cell>The Growing or Springing in the Spiritual World.</cell>
+                        <cell>
+                           <hi>13.</hi> Paradiſe.</cell>
+                        <cell>Sal.</cell>
+                        <cell>Mercu<g ref="char:EOLhyphen"/>rius.</cell>
+                        <cell>Sulphur</cell>
+                        <cell>-tial.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here beginneth the Outward viſible World, <hi>viz.</hi> the Outſpoken viſible WORD. Wherein,
+<list>
+                     <item>1. Is underſtood the Good Life of the Creature which ſtands in the Quinteſſence.</item>
+                     <item>2. The Poyſon and Groſſeneſſe of the Earth and Earthly Life.</item>
+                  </list>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="3">
+                           <hi>14.</hi> The Beginning of the Outward World.</cell>
+                     </row>
+                     <row>
+                        <cell>The Third</cell>
+                        <cell>Principle.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>15.</hi> Heaven.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Starres.</cell>
+                        <cell>
+                           <hi>16.</hi> Quinta Eſſentia.</cell>
+                        <cell>Good powers.</cell>
+                     </row>
+                     <row>
+                        <cell>The</cell>
+                        <cell>
+                           <hi>17.</hi> The <hi>4.</hi> Elements.</cell>
+                        <cell>the Devils poyſon introduced.</cell>
+                     </row>
+                     <row>
+                        <cell>Outspoken <hi>WORD.</hi>
+                        </cell>
+                        <cell>
+                           <hi>18.</hi> Earthly Creatures.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Now, If the Reader underſtandeth theſe things; all Doubts and Queſtions ceaſe in him; and <hi>Bâbel</hi> is left in Ignominie and Scorn.</p>
+            </div>
+            <div type="exposition">
+               <pb facs="tcp:168348:3"/>
+               <pb facs="tcp:168348:3"/>
+               <head>A Short Expoſition of the foregoing <hi>Table</hi> concern<g ref="char:EOLhyphen"/>ing <hi>God Revealed</hi> or Manifeſted; ſhewing how he perpetually generateth and breatheth forth Himſelf from Himſelf: and how this Table is to be underſtood.</head>
+               <div n="1" type="table">
+                  <div n="1" type="part">
+                     <head>ABYSSE. 1. NOTHING &amp; ALL THINGS.</head>
+                     <p>AT Number 1. ſtandeth the <hi>Abyſſe,</hi> the <hi>Nothing and All things;</hi> and there we muſt begin, to Conſider, what God is, in himſelf, without and beyond Nature and Creature; and that Conſideration of the hidden God goeth on to Number 7. <hi>Wiſdom;</hi> whereby is underſtood, how God <hi>dwelleth through</hi> and through all things, and how all exiſteth from him, and yet himſelf is incomprehenſible and as a Nothing to All things; and yet makes himſelf viſible percep<g ref="char:EOLhyphen"/>tible palpable and inventible by and through All things.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>
+                        <hi>2.</hi> Will of the Abyſſe.</head>
+                     <p>At Number 2. ſtandeth the <hi>Will of the Abyſſe;</hi> and right before it, ſtandeth FATHER, and on the other ſide ſtandeth I.E. this ſigni<g ref="char:EOLhyphen"/>fieth that the Will of the Abyſſe is the Father of <hi>Every being,</hi> or of all Subſtances; and the I.E. ſignifieth the Eternal One, <hi>viz.</hi> the Name JESUS proceeding from the Eternal One.</p>
+                  </div>
+                  <div n="3" type="part">
+                     <head>
+                        <hi>3.</hi> Longing Delight or Impreſsion.</head>
+                     <p>At Number 3. the <hi>Longing Delight,</hi> or the <hi>Impreſſion</hi> or Contracti<g ref="char:EOLhyphen"/>on <hi>of the Will</hi> ſtandeth; right before which words ſtandeth SONNE; and after them ſtandeth H. O. which ſignifieth, how the <hi>Own</hi> will impreſſeth or frameth it ſelf into a <hi>place</hi> for its poſſeſſion: that place is the Generating forth from it ſelf, wherein God Generateth God,
+<pb facs="tcp:168348:4"/>
+                        <hi>viz.</hi> a longing delight or <hi>Well pleaſingneſſe</hi> to himſelf: The H. O. is the breathing of the Will whereby the Longing goeth forth.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>
+                        <hi>4.</hi> Science, Root, or Mo<g ref="char:EOLhyphen"/>bility.</head>
+                     <p>At Number 4. ſtandeth <hi>Science, Root,</hi> or <hi>Mobility:</hi> and right be<g ref="char:EOLhyphen"/>fore it ſtandeth SPIRIT. and after it ſtandeth V.A. The Science or Root, is the Wills <hi>drawing in</hi> to be a place for God; wherein the Will impreſſeth the outgone Longing or Delight, to be the Sonne, or <hi>Breathing;</hi> by the breathing forth of which, is underſtood the Spirit of God. And here the Great Name JEHOVA, <hi>viz.</hi> the Tri-Une Subſtance is underſtood; <hi>viz.</hi> how the <hi>Father</hi> generateth his <hi>Sonne</hi> out of himſelf, and how the Holy <hi>Spirit</hi> goeth forth from them both, and yet they are but One only Subſtance which hath no<g ref="char:EOLhyphen"/>thing before it. For the Science, in the Impreſſion is underſtood as a Root of the Eternal Skill Knowledge or Mobility.</p>
+                  </div>
+                  <div n="5" type="part">
+                     <head>
+                        <hi>5.</hi> God in Trinity.</head>
+                     <p>At Number 5. ſtandeth <hi>God in Trinity;</hi> ſignifying, the Tri-une Subſtance, whereof a Similitude may be given in the <hi>Will, Mind,</hi> and Senſes or <hi>Thoughts;</hi> wherein the Eternal Underſtanding Lyeth: for that is the Trinity of the One Eternal Underſtanding, and Cauſe of Every Beeing.</p>
+                  </div>
+                  <div n="6" type="part">
+                     <head>6. WORD.</head>
+                     <p>At Number 6, ſtandeth WORD, ſignifying the <hi>Diſtinction</hi> or Separability in the Underſtanding, <hi>viz.</hi> the Speaking or Expreſſing the perceptibility of it ſelf: which Word continueth Eternally <hi>in God;</hi> and God, <hi>viz.</hi> the Power or Vertue of the Perceptibility, is the Eter<g ref="char:EOLhyphen"/>nal<note n="†" place="margin">Goodneſſe.</note> 
+                        <hi>Good.</hi>
+                     </p>
+                  </div>
+                  <div n="7" type="part">
+                     <head>7. <hi>Wiſdom.</hi>
+                     </head>
+                     <p>At Number 7. ſtandeth <hi>Wiſdom,</hi> ſignifying the outſpoken Word,
+<pb facs="tcp:168348:4"/>
+                        <hi>viz.</hi> the <hi>Power</hi> of the Divine Viſion, wherein God himſelf is under<g ref="char:EOLhyphen"/>ſtandingly and perceptibly <hi>Revealed</hi> and Manifeſted. And thus far, God is Inviſible and Incomprehenſible to the Creature, and not Na<g ref="char:EOLhyphen"/>tural, alſo not Creatural.</p>
+                  </div>
+               </div>
+               <div n="2" type="table">
+                  <head>The Beginning of the <hi>Myſte<g ref="char:EOLhyphen"/>rium Magnum,</hi> or Eternal NATUR.</head>
+                  <p>Under the line ſtandeth theſe words; <hi>The beginning of the Great Myſtery,</hi> Myſterium Magnum, <hi>or Eternal Nature;</hi> viz. the diſtincti<g ref="char:EOLhyphen"/>on or Separability, percepribility and inventibility of properties; whereby is underſtood, the <hi>Divine</hi> Explication or Revelation; ſhewing, how God introduceth himſelf into <hi>Love</hi> and <hi>Anger, in</hi> the Eternal Nature, and not in himſelf; for he is himſelf the Eternal <hi>One</hi> only Good, which yet without diſtinction or ſeparability could <hi>not</hi> be per<g ref="char:EOLhyphen"/>ceptible or Manifeſted.</p>
+                  <p>But here we are to note, that the Seven chief Forms of Nature are marked with Number I. II. III. IV. V. VI. VII. to difference them from the other Numbers, uſed in this Table.</p>
+                  <div n="8" type="part">
+                     <head>
+                        <hi>8.</hi> The Second Principle.</head>
+                     <p> </p>
+                  </div>
+                  <div n="9" type="part">
+                     <head>
+                        <hi>9.</hi> The Firſt Principle.</head>
+                     <p>On the firſt ſide at Number 8. <hi>The Second Principle</hi> ſtandeth; and on the other ſide at Number 9. <hi>The Firſt Principle</hi> ſtandeth: The words at Number 9. ſignifie the Fathers property, through the Speaking of the Word <hi>in Wrath;</hi> and thoſe at Number 8. ſignifie the Sonnes pro<g ref="char:EOLhyphen"/>perty <hi>in</hi> the <hi>Love,</hi> wherein Gods Love is Manifeſted through the out<g ref="char:EOLhyphen"/>ſpeaking or expreſſing of the Word: <hi>viz.</hi> that in the Love, Number 8, ſignifieth, the <hi>Angelical</hi> powers World; and that in the Wrath, Number 9. ſignifieth the <hi>Dark</hi> powers World, of Pain Woe and Tor<g ref="char:EOLhyphen"/>ment, wherein God is an Angry God.</p>
+                  </div>
+                  <div n="10" type="part">
+                     <head>
+                        <hi>10.</hi> Tincture.</head>
+                     <p>At Number 10. ſtandeth <hi>Tincture,</hi> which ſignifieth the Tempera<g ref="char:EOLhyphen"/>ture or Harmony of all Subſtances or things, ſhewing, how they
+<pb facs="tcp:168348:5"/>
+therein, through the Word go forth into diſtinction and forms, <hi>viz.</hi> into ſeven chief Forms: as into, I. <hi>Deſire.</hi> II. <hi>Science or Root.</hi> III. <hi>Anguiſh,</hi> IV. <hi>Fire,</hi> V. <hi>Lovefire,</hi> VI. <hi>Sound,</hi> and VII. <hi>Sub<g ref="char:EOLhyphen"/>ſtances:</hi> and further, there ſtandeth by every chief form, what pro<g ref="char:EOLhyphen"/>perties go forth and are generated out of them: for if Speaking muſt be, then muſt the power firſt <hi>draw together,</hi> that it may breath forth it ſelf, and then that drawing together, or Magnetick Impreſſion, gene<g ref="char:EOLhyphen"/>rateth the ſomewhat which is the beginning, wherein is underſtood the <hi>Fiat,</hi> which hath attracted the powers.</p>
+                     <div n="I" type="form">
+                        <head>
+                           <hi>I.</hi> Deſire.</head>
+                        <p>And it is the Firſt chief Form of the Spiritual Nature, ſtanding at Number I. <hi>viz. Deſire;</hi> which Deſire ſharpneth it ſelf ſo, that out of it <hi>Harſh, Hard,</hi> and the Cauſe of <hi>Cold</hi> exiſteth; and is a Ground of all <hi>Saltiſh</hi> properties, in the Spiritual World, <hi>Spiritual,</hi> and in the outward World <hi>Subſtantial.</hi> And thus the Deſire of the Impreſſion, is ac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uſe of the <hi>Overſhadowing</hi> of it ſelf, or of the <hi>Darkneſſe</hi> in the Abyſſe, as we ſee all theſe forms belong to Number I. <hi>viz.</hi> to the Deſire of Impreſſion.</p>
+                     </div>
+                     <div n="II" type="form">
+                        <head>
+                           <hi>II.</hi> Sting or Science.</head>
+                        <p>Cloſe by ſtandeth the Second chief form Number II. which is the <hi>Sting</hi> or <hi>Science,</hi> viz. the root, which ſignifieth the <hi>indrawing</hi> of the deſire, whence the firſt <hi>Enmity</hi> or Contrary will exiſteth; for <hi>hardneſſe</hi> and <hi>moving,</hi> are unlike things, in this form now exiſteth the <hi>moving</hi> and <hi>feeling,</hi> as a root of painfulneſſe; wherein is underſtood the <hi>Mercurial</hi> poyſonous Life, both ſpiritually and in ſubſtance; and in the <hi>Darkneſſe,</hi> the Torment, or the painfulneſſe of the Evil Life; neither would the Good Life be manifeſted without this root of Evil; and it is the root of Gods wrath, according to the Eternal Nature of the perceptibility.</p>
+                     </div>
+                     <div n="III" type="form">
+                        <head>
+                           <hi>III.</hi> Anguiſh.</head>
+                        <p>The Third chief form Number III. is <hi>Anguiſh,</hi> which exiſteth out of the <hi>Deſire</hi> of the Impreſſion, and out of the <hi>Enmity</hi> of the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ing,</hi> whence the Will ſtandeth in the ſource or pain, and is a Cauſe of the<note n="*" place="margin">Or perception in the <hi>Mind</hi> and Thoughts.</note> 
+                           <hi>feeling,</hi> and of the five <hi>Senſes,</hi> therein, and becauſe in the <hi>Anguiſh</hi> all forms are pained, that makes them that they <hi>find</hi> one an<g ref="char:EOLhyphen"/>other; and herein the WORD becometh <hi>diſtinct,</hi> and is a root of <hi>Sulphur,</hi> both <hi>ſpiritual</hi> and <hi>Subſtantial,</hi> wherein is rightly underſtood in the Darkneſſe in the painful Life, the <hi>Helliſh fire,</hi> as is noted in the Table downwards.</p>
+                     </div>
+                     <div n="IV" type="form">
+                        <pb facs="tcp:168348:5"/>
+                        <head>
+                           <hi>IV.</hi> Fire.</head>
+                        <p>The Fourth chief Form Number IV. is called <hi>Fire;</hi> wherein is un<g ref="char:EOLhyphen"/>derſtood the <hi>Kindling</hi> of the fire, from the painful <hi>Sulphurey</hi> root; for the Will goeth from the Anguiſh into the Liberty again, and the liberty goeth into the Anguiſh to its manifeſtation,</p>
+                        <p>In this Conjunction the Crack or Lightening <hi>Flaſh</hi> is effected, wherein the Abyſſe, <hi>viz.</hi> the Eternal Good becomes manifeſted, and is, in the Forms of NATURE, the Underſtanding and Life; in the Darkneſſe painful woe and <hi>Torment;</hi> and in the Liberty it is the Root of <hi>Joy,</hi> or the awakening of the powers, and is the fires Kindling; in which Kindling, the Abyſſe becometh a <hi>ſhining</hi> Light, <hi>viz.</hi> Mate<g ref="char:EOLhyphen"/>rial.</p>
+                     </div>
+                     <div n="V" type="form">
+                        <head>
+                           <hi>V.</hi> Lovefire.</head>
+                        <p>The Fifth Form Number V. is called the <hi>Lovefire,</hi> wherein is un<g ref="char:EOLhyphen"/>derſtood, how the Eternal Good, through the Kindling of the painful fire, introduceth it ſelf into an exulting <hi>burning</hi> Lovefire, which fire is indeed in God before, but thus now it unfoldeth it ſelf forth, ſo that it is <hi>perceptible</hi> and moveable, wherein the good powers become work<g ref="char:EOLhyphen"/>ing.</p>
+                     </div>
+                  </div>
+                  <div n="11" type="part">
+                     <head>
+                        <hi>11.</hi> Angel. </head>
+                     <div n="VI" type="form">
+                        <head>
+                           <hi>VI.</hi> Sound.</head>
+                        <p>At Number VI. ſtandeth <hi>Sound,</hi> or <hi>Diſtinction,</hi> viz. the Sixth chief Form, ſignifying, the Natural clear life, wherein the Eternal Divine Word, hath through the forms of Nature, unfolded it ſelf forth, wherein all the powers of the Wiſdom ſtand in the Sound; and in this now conſiſteth the <hi>underſtanding</hi> Life, in the <hi>Light</hi> it is Angelical and Divine, and in the darkneſſe it is Diabolical; as right before it Num<g ref="char:EOLhyphen"/>ber 11. <hi>Angel</hi> ſtandeth.</p>
+                     </div>
+                     <div n="VII" type="form">
+                        <head>
+                           <hi>VII.</hi> Subſtance.</head>
+                        <p>At Number VII ſtandeth <hi>Subſtance, or the Subſtantial Wiſdom</hi> of the outbreathed Word, wherein all other forms are manifeſted; and it is even the Subſtance of All forms, <hi>viz.</hi>
+                           <note n="†" place="margin">Read the <hi>6<hi rend="sup">o</hi>.</hi> Epiſtle printed, of the true and falſe Light.</note> in the <hi>Light</hi> Good, in the <hi>Darkneſſe</hi> Evil and Painful: And eſpecially the Great Myſtery <hi>My<g ref="char:EOLhyphen"/>ſterium Magnum</hi> is underſtood therein; alſo the Angelical World is underſtood therein, as alſo the Inward<note n="*" place="margin">In Adam we loſt Our Angelical heavenly Body, but through the regeneration and Faith in Chriſt, we at<g ref="char:EOLhyphen"/>tain it again, and that is kept by Chriſt with his heavenly fleſh and blood in us, unto Eter<g ref="char:EOLhyphen"/>nal life, and nor the outward beaſtial Man.</note> Spiritual Body of Man, which <hi>faded</hi> or diſappeared in <hi>Adam;</hi> when the Soul's will went forth from
+<pb facs="tcp:168348:6"/>
+Gods Will; but the ſame is made <hi>alive</hi> again in Chriſt, who giveth to it this powerful worlds ſubſtance, for food, which is that heavenly fleſh, <hi>John</hi> 6.51. and is the dry Rod of <hi>Aaron,</hi> which in Chriſts Spirit buddeth and ſpringeth freſh up in Man, again.</p>
+                     </div>
+                  </div>
+                  <div n="12" type="part">
+                     <head>
+                        <hi>12.</hi> Pure Element.</head>
+                     <p>At Number 12. ſtandeth <hi>Pure Element,</hi> ſignifying, the Motion in the <hi>Angelical world</hi> into Subſtance, and it is the <hi>One only Holy</hi> pure Element, wherein the four Elements lye in the Temperature or Har<g ref="char:EOLhyphen"/>mony, and is a <hi>root of the four Elements.</hi>
+                     </p>
+                  </div>
+                  <div n="13" type="part">
+                     <head>
+                        <hi>13.</hi> Paradiſe.</head>
+                     <p>At Number 13. ſtandeth <hi>Paradiſe,</hi> ſignifying the Eternal <hi>springing up</hi> or budding, or the ſpiritual <hi>growing</hi> or vegetation <hi>in the Spirituall World,</hi> out of which, the Outward viſible World out of Good and Evil, <hi>viz.</hi> out of <hi>both</hi> the Eternal Principles, hath been breathed forth; In which Source Quality and Regiment, <hi>Adam</hi> in his Innocency ſtood: <hi>viz.</hi> the four Elements in him ſtood yet all in the <hi>Temperature,</hi> viz. in the Holy Pure Element.</p>
+                  </div>
+               </div>
+               <div n="3" type="table">
+                  <div n="14" type="part">
+                     <head>
+                        <hi>14.</hi> The Beginning of the Outward World.</head>
+                     <p>At Number 14. ſtandeth <hi>The Beginning of the Outward World:</hi> ſig<g ref="char:EOLhyphen"/>nifying, how God through his Word, hath breathed forth the Spiritual <hi>Myſterium Magnum,</hi> Great Myſtery, <hi>viz.</hi> the Eternal Nature of all Spiritual Properties, into a Viſible outward formed ſubſtance, and through the <hi>Fiat,</hi> viz. the Spiritual Deſire, formed it into Creatures; near which ſtandeth, <hi>The Third Principle;</hi> wherein is to be underſtood 3. Worlds one in another, <hi>viz.</hi> the Dark world in Gods Wrath, and the Eternal Light World of Divine Love; and this beginning, fading or tranſitory world.</p>
+                  </div>
+                  <div n="15" type="part">
+                     <head>
+                        <hi>15.</hi> Heaven.</head>
+                     <p>At Number 15. ſtandeth <hi>Heaven,</hi> ſignifying the limit of diſtincti<g ref="char:EOLunhyphen"/>on or ſeparation between the Inward and Outward World, <hi>viz.</hi> be<g ref="char:EOLhyphen"/>tween the viſible and inviſible Subſtance; which Heaven, conſiſteth in the Subſtance of the Spiritual fires Water.</p>
+                  </div>
+                  <div n="16" type="part">
+                     <pb facs="tcp:168348:6"/>
+                     <head>
+                        <hi>16.</hi> Quinta Eſſentia.</head>
+                     <p>At Number 16. ſtandeth <hi>Quinta Eſſentia;</hi> the Quinteſſence: ſig<g ref="char:EOLhyphen"/>nifying the Spiritual <hi>Powers,</hi> viz. the Paradiſical Ground in the 4 Ele<g ref="char:EOLhyphen"/>ments, as alſo the <hi>Starres</hi> or Conſtellations which were breathed forth out of the inward powers when Time began; and it is the <hi>Good</hi> in the four Elements, wherein the Light of Nature <hi>ſhineth,</hi> as an outbreathed Lightening or <hi>Luſtre</hi> from the Eternal Light,</p>
+                  </div>
+                  <div n="17" type="part">
+                     <head>
+                        <hi>17.</hi> Four Elements.</head>
+                     <p>At Number 17. ſtandeth <hi>Four Elements;</hi> that is, 1 Fire, 2 Aire, 3 Water, and 4 Earth; <hi>viz.</hi> the Created World, out of the Dark-and Light-World: which is the Outſpoken formed WORD, out of the Eternal Natures powerful Subſtance, into which <hi>the Devil</hi> had <hi>ſhed his poyſon,</hi> which after Mans Fall, was Curſed of God.</p>
+                  </div>
+                  <div n="18" type="part">
+                     <head>
+                        <hi>18.</hi> Earthly Creatures.</head>
+                     <p>At Number 18. ſtandeth <hi>Earthly Creatures;</hi> ſignifying, that out of the <hi>Quinta Eſſentia,</hi> or Quinteſſence, and out of the 4. <hi>Elements,</hi> all Creatures of this viſible World have been created, and have their Life only from thence. But the <hi>Souliſh</hi> or Pſuchicall<note n="*" place="margin">Man having <hi>2.</hi> Eternall worlds in him, is capable of being Sa<g ref="char:EOLhyphen"/>ved, or Dam<g ref="char:EOLhyphen"/>ned.</note> Man, hath alſo <hi>both</hi> the Inward Spiritual Worlds in him as to the Inward Sou<g ref="char:EOLhyphen"/>liſh Man. Therefore may both Gods <hi>Love</hi> and <hi>Anger</hi> be Manifeſted in him; for, into which of them the will frames faſhions comprehen<g ref="char:EOLhyphen"/>deth or kindleth it ſelf, of the ſubſtance thereof it cometh to be, and to manifeſt the ſelf ſame therein, as is to be ſeen in <hi>Lucifer.</hi>
+                     </p>
+                  </div>
+               </div>
+               <trailer>This is a brief Explication of the Table, which is the Summe of all the Authours Writings, ſet forth for his Loving Friends ſakes, and from a good Chriſtian intent very faithfully, and for an A.B.C. to Beginners, 1623.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:168348:7"/>
+            <head>The Reader is deſired to mend theſe faults with his Pen before he read the Book.</head>
+            <p>FIrſt Preface, Page 3. (a) Margine, for צ. read ע. Page 1. (b) l. 8. blot out by.</p>
+            <p>
+               <hi>Behm's</hi> Preface, page 2. line 1. read higheſt Good)</p>
+            <p>The Book, Page 3 line 12 for ſound. read found. p. 4 l. 35 for on. r. an. p. 8 l. 16 for Image. r. Imaged. p. 10 l. 36 for End. r. Ens. p. 12 l. 46 for ſalt. r. fatt. p. 16 l. 22 read Tongue. p. 17 l. 13 read Love-fire. p. 19 l. 3 for of. r. or. p. 21 l. 1 &amp; 2 r. lights Love-fire. p. 22 l. 3 r. and Metals, the. for were. r. was. p. 26 l. 2 for incorrupting. r. incorporating qualifying Life of. p. 28 l. 11 for firſt. r. fift. p. 35 l. 29 for tranſmitted. r. tranſmuted. p. 36 l. 5 read forms of diſpoſitions. p. 42 l. 8 r. the Mens or Mind. p. 47. l. 18 r. of Nat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re. l. 20 r. 72. For, in. p. 49 l. 9 for into. r. in. for Ens, or Beeing. r. Eſſence. p. 53 l. 17 for its. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. into. p. 56 Margine. l. 11 r. of The. p. 78 l. 20 r. Life that. p. 79 l. 3 for was. r. were. p. 111 l 45 r. Glauben. p. 117 l. 5 r. property; l. 37 for with. r. without. p. 120 l. 4 r. which was. p. 136 l. 10 r. the Grace and. p. 148 l. 32 r. ſo very great. p. 164 l. 19 for whole. r. good. p. 187 l. 38 r. who without. p. 188 l. 22 r. no other. p. 196 l. 41 r. and ſharp.</p>
+            <p>Table. Page 4. line 32. read Sting. p. 8. l. 4. r. Subſtance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
